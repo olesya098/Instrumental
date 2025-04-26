@@ -1,0 +1,34 @@
+апр. 17, 2025 11:59:49 PM Main main
+INFO: Запуск программы
+апр. 17, 2025 11:59:57 PM Main recursiveMultiply
+INFO: Вызов recursiveMultiply(a=22, b=3)
+апр. 17, 2025 11:59:57 PM Main recursiveMultiply
+INFO: Вызов recursiveMultiply(a=22, b=2)
+апр. 17, 2025 11:59:57 PM Main recursiveMultiply
+INFO: Вызов recursiveMultiply(a=22, b=1)
+апр. 17, 2025 11:59:57 PM Main recursiveMultiply
+INFO: Вызов recursiveMultiply(a=22, b=0)
+апр. 17, 2025 11:59:57 PM Main main
+INFO: Успешное завершение, результат: 66
+апр. 17, 2025 11:59:57 PM Main main
+INFO: Завершение работы программы
+апр. 18, 2025 12:07:21 AM DebugHelper logInfo
+INFO: Запуск программы
+апр. 18, 2025 12:07:24 AM DebugHelper logInfo
+INFO: Вызов bitMultiply(a=2, b=3)
+апр. 18, 2025 12:07:24 AM DebugHelper logInfo
+INFO: Результат bitMultiply: 6
+апр. 18, 2025 12:07:24 AM DebugHelper logInfo
+INFO: Успешное завершение, результат: 6
+апр. 18, 2025 12:07:24 AM DebugHelper logInfo
+INFO: Завершение работы программы
+апр. 18, 2025 12:10:38 AM DebugHelper logInfo
+INFO: Запуск программы
+апр. 18, 2025 12:10:41 AM DebugHelper logInfo
+INFO: Вызов loopMultiply(a=2, b=3)
+апр. 18, 2025 12:10:41 AM DebugHelper logInfo
+INFO: Результат loopMultiply: 6
+апр. 18, 2025 12:10:41 AM DebugHelper logInfo
+INFO: Успешное завершение, результат: 6
+апр. 18, 2025 12:10:41 AM DebugHelper logInfo
+INFO: Завершение работы программы
